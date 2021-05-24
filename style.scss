@@ -292,6 +292,9 @@ a{
     
 }
 @media only screen and (max-width:760px) {
+    .navbar{
+        display: none;
+    }
     .left-side{
         width: 100%;
         margin-left: 5rem;
